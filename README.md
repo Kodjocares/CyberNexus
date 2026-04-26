@@ -13,7 +13,7 @@ A modular, client-side cybersecurity dashboard built with React. Covers 12 secur
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/cybernexus.git
+git clone https://github.com/Kodjocares/cybernexus.git
 cd cybernexus
 
 # 2. Install dependencies
